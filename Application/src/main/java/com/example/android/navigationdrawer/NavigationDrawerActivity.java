@@ -225,20 +225,26 @@ public class NavigationDrawerActivity extends Activity implements PlanetAdapter.
             fragment.setArguments(args);
             return fragment;
         }
-
+        int i = getArguments().getInt(ARG_PLANET_NUMBER);
+        View rootView;
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
-            View rootView = inflater.inflate(R.layout.fragment_planet, container, false);
-            int i = getArguments().getInt(ARG_PLANET_NUMBER);
-            String planet = getResources().getStringArray(R.array.planets_array)[i];
+            if(i==0)
+                rootView = inflater.inflate(R.layout.fragment_family, container, false);
+            else if(i==1)
+                rootView = inflater.inflate(R.layout.fragment_family, container, false);
+            else if(i==2)
+                rootView = inflater.inflate(R.layout.fragment_family, container, false);
 
-            int imageId = getResources().getIdentifier(planet.toLowerCase(Locale.getDefault()),
-                    "drawable", getActivity().getPackageName());
-            ImageView iv = ((ImageView) rootView.findViewById(R.id.image));
-            iv.setImageResource(imageId);
+            //String planet = getResources().getStringArray(R.array.planets_array)[i];
 
-            getActivity().setTitle(planet);
+            //int imageId = getResources().getIdentifier(planet.toLowerCase(Locale.getDefault()),
+                   // "drawable", getActivity().getPackageName());
+            //ImageView iv = ((ImageView) rootView.findViewById(R.id.image));
+            //iv.setImageResource(imageId);
+
+            //getActivity().setTitle(planet);
             return rootView;
         }
     }
