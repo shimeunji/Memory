@@ -19,12 +19,7 @@
     android:orientation="vertical"
     xmlns:android="http://schemas.android.com/apk/res/android" >
 
-    <ListView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+
     <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/image"
         android:layout_width="match_parent"
@@ -33,10 +28,7 @@
         android:background="#ffffff"
         android:gravity="center"
         android:padding="32dp" />
-        </LinearLayout>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+
     <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/image1"
         android:layout_width="match_parent"
@@ -45,6 +37,5 @@
         android:background="#ffffff"
         android:gravity="center"
         android:padding="32dp" />
-        </LinearLayout>
-    </ListView>
+
 </LinearLayout>

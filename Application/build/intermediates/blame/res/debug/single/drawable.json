@@ -80,6 +80,10 @@
         "source": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
+        "merged": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/family1.jpg",
+        "source": "/Users/appcreator37/Desktop/Memory/Application/src/main/res/drawable/family1.jpg"
+    },
+    {
         "merged": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
         "source": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_ab_back_material.xml"
     },
@@ -94,6 +98,10 @@
     {
         "merged": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
         "source": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/classroom.jpg",
+        "source": "/Users/appcreator37/Desktop/Memory/Application/src/main/res/drawable/classroom.jpg"
     },
     {
         "merged": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
@@ -112,8 +120,16 @@
         "source": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_textfield_search_material.xml"
     },
     {
+        "merged": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/family2.jpg",
+        "source": "/Users/appcreator37/Desktop/Memory/Application/src/main/res/drawable/family2.jpg"
+    },
+    {
         "merged": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/friend1.jpg",
+        "source": "/Users/appcreator37/Desktop/Memory/Application/src/main/res/drawable/friend1.jpg"
     },
     {
         "merged": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",

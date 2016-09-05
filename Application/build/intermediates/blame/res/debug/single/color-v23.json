@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_btn_checkable.xml"
-    },
-    {
         "merged": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "/Users/appcreator37/Desktop/Memory/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
