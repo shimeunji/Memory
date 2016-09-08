@@ -1,2 +1,3 @@
 CHANGED,/Users/appcreator37/Desktop/Memory/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
-CHANGED,/Users/appcreator37/Desktop/Memory/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/NavigationDrawerActivity$PlanetFragment$override.class
+CHANGED,/Users/appcreator37/Desktop/Memory/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/SplashActivity$override.class
+CHANGED,/Users/appcreator37/Desktop/Memory/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/SplashActivity$1$override.class

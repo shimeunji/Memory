@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/appcreator37/Desktop/Memory/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a7b4772119bb92f2e9844c28738eed78aef14094">
+        <dex dex="/Users/appcreator37/Desktop/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3f234432acf68f0124eac9f11762aee3f669bdb2/classes.dex" />
+    </item>
+
+</items>
